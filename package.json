@@ -1,0 +1,18 @@
+{
+  "name": "muchflip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "Carbonara - WeStake.Club",
+  "dependencies": {
+    "@types/inquirer": "^8.1.3",
+    "inquirer": "^8.2.0",
+    "snarkyjs": "^0.1.11",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.3"
+  }
+}
