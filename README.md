@@ -26,3 +26,12 @@ Much Flip Game is an interactive game. You can start the game by following these
 npm install
 npm start
 ```
+
+## Todos
+
+To make this repository a good starting point for new commers, it requires:
+- Comments in the code
+- Prettier & co.
+
+### Ideas for next version
+- Implement the scores as transaction
